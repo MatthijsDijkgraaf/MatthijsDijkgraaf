@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthijsDijkgraaf
-- 👀 I’m interested in quantitative portfolio management, financial risk, and simulations 
+- 👀 I’m interested in quantitative portfolio management, financial risk, and Monte Carlo simulations.
 - 🌱 I’m currently learning about distributed ledger technology.
 
 <!---
