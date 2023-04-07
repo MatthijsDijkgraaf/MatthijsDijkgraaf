@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthijsDijkgraaf
-- 👀 I’m interested in quantitative portfolio management, financial risk, and Monte Carlo simulations.
-- 🌱 I’m currently learning about distributed ledger technology.
+- 👀 I’m interested in sustainability x AI, quantitative portfolio management, and Monte Carlo simulations.
+- 🌱 I’m currently learning about ESG ratings and how they can be better.
 
 <!---
 MatthijsDijkgraaf/MatthijsDijkgraaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
