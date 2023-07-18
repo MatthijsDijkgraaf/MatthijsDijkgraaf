@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MatthijsDijkgraaf
-- 👀 I’m interested in sustainability x AI, quantitative portfolio management, and Monte Carlo simulations.
-- 🌱 I’m currently learning about ESG ratings and how they can be better.
+- Operations Research & Financial Engineering @Princeton, Class of 2020
+- 👀 I’m interested in sustainability x AI, building quantitative tools, and Monte Carlo simulations.
+- 🌱 I’m currently learning about how to improve sustainability analysis.
 
 <!---
 MatthijsDijkgraaf/MatthijsDijkgraaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
