@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MatthijsDijkgraaf
-- Operations Research & Financial Engineering @Princeton, Class of 2020
-- 👀 I’m interested in sustainability x AI, building quantitative tools, and Monte Carlo simulations.
-- 🌱 I’m currently learning about how to improve sustainability analysis.
+- I'm building Newsflow.co
+- We develop intelligent newsfeeds for business professionals with AI research tools built-in
+- Think Google alerts but in customizable feed format with LLM analysis and Q&A. It allows businesses to track themselves, competitors, and industries with greater speed and precision.
+- Education: Operations Research & Financial Engineering @Princeton, Class of 2020
+
 
 <!---
 MatthijsDijkgraaf/MatthijsDijkgraaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
